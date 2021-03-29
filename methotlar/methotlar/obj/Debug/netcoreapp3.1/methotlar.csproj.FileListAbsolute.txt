@@ -1,0 +1,13 @@
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\bin\Debug\netcoreapp3.1\methotlar.exe
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\bin\Debug\netcoreapp3.1\methotlar.deps.json
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\bin\Debug\netcoreapp3.1\methotlar.runtimeconfig.json
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\bin\Debug\netcoreapp3.1\methotlar.runtimeconfig.dev.json
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\bin\Debug\netcoreapp3.1\methotlar.dll
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\bin\Debug\netcoreapp3.1\methotlar.pdb
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.csprojAssemblyReference.cache
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.AssemblyInfoInputs.cache
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.AssemblyInfo.cs
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.dll
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.pdb
+C:\Users\ELİF\Source\Repos\methotlar\methotlar\obj\Debug\netcoreapp3.1\methotlar.genruntimeconfig.cache
